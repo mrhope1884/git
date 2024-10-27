@@ -1,0 +1,101 @@
+.nav{
+    background-color: rgb(23, 182, 213);
+    padding: 20px;
+    border-radius: 10px 0 0 0;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin: 0px 20px;
+}
+.logo{
+    background-color: antiquewhite;
+    padding: 30px;
+}
+.main{
+    display: flex;
+}
+.right-main{
+    background-color:rgb(76, 212, 212);
+    width: 20%;
+    height: 1000px;
+    margin-left: 20px;
+}
+.left-main{
+    background-color:aliceblue;
+    width: 80%;
+    height: 1000px;
+
+}
+.title{
+    background-color: aquamarine;
+}
+.main-news{
+    display: flex;
+}
+.title-Notification{
+    background-color: rgb(28, 113, 209);
+}
+.Notification{
+    margin-top: 10px;
+}
+.main-Notification{
+    display: flex;
+}
+.instruct{
+    margin-top: 10px;
+}
+.title-instruct{
+    background-color: rgb(200, 131, 47);
+}
+.title-login{
+    color: aliceblue;
+    background-color: aqua;
+    padding: 0 15px 0 15px;
+    height: 35px;
+    padding-top: 10px;
+    font-size: 21px;
+}
+.form-account{
+    margin-left:13px;
+}
+.form-password{
+    margin-left:13px;
+}
+input{
+    border-radius: 5px;
+}
+button{
+    color: aliceblue;
+    background-color: rgb(19, 136, 209);
+    padding: 10px 100px 10px 100px;
+    border-radius: 5px;
+}
+.dangnhap{
+    margin-top: 10px;
+    text-align: center;
+}
+.dangnhapkhac{
+    color: aliceblue;
+    background-color: rgb(19, 136, 209);
+    padding: 10px 100px 10px 100px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-right: 13px;
+    margin-left: 13px;
+}
+.title-setting{
+    color: aliceblue;
+    background-color: aqua;
+    padding: 0 15px 0 15px;
+    height: 35px;
+    margin-top: 10px;
+    padding-top: 10px;
+    font-size: 21px;
+}
+.noidung3{
+    margin-top: 20px;
+    background-color: rgb(19, 136, 209);
+    height: 50px;
+    border-radius: 0 0 0 5px;
+}
